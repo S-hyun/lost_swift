@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A8F1D01022C9A63400767065 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F1D00F22C9A63400767065 /* AppDelegate.swift */; };
-		A8F1D01222C9A63400767065 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F1D01122C9A63400767065 /* ViewController.swift */; };
-		A8F1D01522C9A63400767065 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F1D01322C9A63400767065 /* Main.storyboard */; };
-		A8F1D01722C9A63500767065 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8F1D01622C9A63500767065 /* Assets.xcassets */; };
-		A8F1D01A22C9A63500767065 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F1D01822C9A63500767065 /* LaunchScreen.storyboard */; };
+		A8BFE3D422D4771900B2E042 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BFE3D322D4771900B2E042 /* AppDelegate.swift */; };
+		A8BFE3D622D4771900B2E042 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BFE3D522D4771900B2E042 /* ViewController.swift */; };
+		A8BFE3D922D4771900B2E042 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8BFE3D722D4771900B2E042 /* Main.storyboard */; };
+		A8BFE3DB22D4771A00B2E042 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8BFE3DA22D4771A00B2E042 /* Assets.xcassets */; };
+		A8BFE3DE22D4771B00B2E042 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8BFE3DC22D4771B00B2E042 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A8F1D00C22C9A63400767065 /* CheckLocale.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckLocale.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8F1D00F22C9A63400767065 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A8F1D01122C9A63400767065 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A8F1D01422C9A63400767065 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A8F1D01622C9A63500767065 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A8F1D01922C9A63500767065 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A8F1D01B22C9A63500767065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8BFE3D022D4771900B2E042 /* GPSBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPSBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8BFE3D322D4771900B2E042 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A8BFE3D522D4771900B2E042 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A8BFE3D822D4771900B2E042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A8BFE3DA22D4771A00B2E042 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A8BFE3DD22D4771B00B2E042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A8BFE3DF22D4771B00B2E042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A8F1D00922C9A63400767065 /* Frameworks */ = {
+		A8BFE3CD22D4771900B2E042 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A8F1D00322C9A63400767065 = {
+		A8BFE3C722D4771900B2E042 = {
 			isa = PBXGroup;
 			children = (
-				A8F1D00E22C9A63400767065 /* CheckLocale */,
-				A8F1D00D22C9A63400767065 /* Products */,
+				A8BFE3D222D4771900B2E042 /* GPSBasic */,
+				A8BFE3D122D4771900B2E042 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A8F1D00D22C9A63400767065 /* Products */ = {
+		A8BFE3D122D4771900B2E042 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A8F1D00C22C9A63400767065 /* CheckLocale.app */,
+				A8BFE3D022D4771900B2E042 /* GPSBasic.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A8F1D00E22C9A63400767065 /* CheckLocale */ = {
+		A8BFE3D222D4771900B2E042 /* GPSBasic */ = {
 			isa = PBXGroup;
 			children = (
-				A8F1D00F22C9A63400767065 /* AppDelegate.swift */,
-				A8F1D01122C9A63400767065 /* ViewController.swift */,
-				A8F1D01322C9A63400767065 /* Main.storyboard */,
-				A8F1D01622C9A63500767065 /* Assets.xcassets */,
-				A8F1D01822C9A63500767065 /* LaunchScreen.storyboard */,
-				A8F1D01B22C9A63500767065 /* Info.plist */,
+				A8BFE3D322D4771900B2E042 /* AppDelegate.swift */,
+				A8BFE3D522D4771900B2E042 /* ViewController.swift */,
+				A8BFE3D722D4771900B2E042 /* Main.storyboard */,
+				A8BFE3DA22D4771A00B2E042 /* Assets.xcassets */,
+				A8BFE3DC22D4771B00B2E042 /* LaunchScreen.storyboard */,
+				A8BFE3DF22D4771B00B2E042 /* Info.plist */,
 			);
-			path = CheckLocale;
+			path = GPSBasic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A8F1D00B22C9A63400767065 /* CheckLocale */ = {
+		A8BFE3CF22D4771900B2E042 /* GPSBasic */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8F1D01E22C9A63500767065 /* Build configuration list for PBXNativeTarget "CheckLocale" */;
+			buildConfigurationList = A8BFE3E222D4771B00B2E042 /* Build configuration list for PBXNativeTarget "GPSBasic" */;
 			buildPhases = (
-				A8F1D00822C9A63400767065 /* Sources */,
-				A8F1D00922C9A63400767065 /* Frameworks */,
-				A8F1D00A22C9A63400767065 /* Resources */,
+				A8BFE3CC22D4771900B2E042 /* Sources */,
+				A8BFE3CD22D4771900B2E042 /* Frameworks */,
+				A8BFE3CE22D4771900B2E042 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CheckLocale;
-			productName = CheckLocale;
-			productReference = A8F1D00C22C9A63400767065 /* CheckLocale.app */;
+			name = GPSBasic;
+			productName = GPSBasic;
+			productReference = A8BFE3D022D4771900B2E042 /* GPSBasic.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A8F1D00422C9A63400767065 /* Project object */ = {
+		A8BFE3C822D4771900B2E042 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = swuad_12;
 				TargetAttributes = {
-					A8F1D00B22C9A63400767065 = {
+					A8BFE3CF22D4771900B2E042 = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
 				};
 			};
-			buildConfigurationList = A8F1D00722C9A63400767065 /* Build configuration list for PBXProject "CheckLocale" */;
+			buildConfigurationList = A8BFE3CB22D4771900B2E042 /* Build configuration list for PBXProject "GPSBasic" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = A8F1D00322C9A63400767065;
-			productRefGroup = A8F1D00D22C9A63400767065 /* Products */;
+			mainGroup = A8BFE3C722D4771900B2E042;
+			productRefGroup = A8BFE3D122D4771900B2E042 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A8F1D00B22C9A63400767065 /* CheckLocale */,
+				A8BFE3CF22D4771900B2E042 /* GPSBasic */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A8F1D00A22C9A63400767065 /* Resources */ = {
+		A8BFE3CE22D4771900B2E042 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F1D01A22C9A63500767065 /* LaunchScreen.storyboard in Resources */,
-				A8F1D01722C9A63500767065 /* Assets.xcassets in Resources */,
-				A8F1D01522C9A63400767065 /* Main.storyboard in Resources */,
+				A8BFE3DE22D4771B00B2E042 /* LaunchScreen.storyboard in Resources */,
+				A8BFE3DB22D4771A00B2E042 /* Assets.xcassets in Resources */,
+				A8BFE3D922D4771900B2E042 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A8F1D00822C9A63400767065 /* Sources */ = {
+		A8BFE3CC22D4771900B2E042 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F1D01222C9A63400767065 /* ViewController.swift in Sources */,
-				A8F1D01022C9A63400767065 /* AppDelegate.swift in Sources */,
+				A8BFE3D622D4771900B2E042 /* ViewController.swift in Sources */,
+				A8BFE3D422D4771900B2E042 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A8F1D01322C9A63400767065 /* Main.storyboard */ = {
+		A8BFE3D722D4771900B2E042 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A8F1D01422C9A63400767065 /* Base */,
+				A8BFE3D822D4771900B2E042 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A8F1D01822C9A63500767065 /* LaunchScreen.storyboard */ = {
+		A8BFE3DC22D4771B00B2E042 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A8F1D01922C9A63500767065 /* Base */,
+				A8BFE3DD22D4771B00B2E042 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A8F1D01C22C9A63500767065 /* Debug */ = {
+		A8BFE3E022D4771B00B2E042 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		A8F1D01D22C9A63500767065 /* Release */ = {
+		A8BFE3E122D4771B00B2E042 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,34 +278,34 @@
 			};
 			name = Release;
 		};
-		A8F1D01F22C9A63500767065 /* Debug */ = {
+		A8BFE3E322D4771B00B2E042 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = CheckLocale/Info.plist;
+				INFOPLIST_FILE = GPSBasic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.CheckLocale;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.GPSBasic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A8F1D02022C9A63500767065 /* Release */ = {
+		A8BFE3E422D4771B00B2E042 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = CheckLocale/Info.plist;
+				INFOPLIST_FILE = GPSBasic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.CheckLocale;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.GPSBasic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,25 +315,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A8F1D00722C9A63400767065 /* Build configuration list for PBXProject "CheckLocale" */ = {
+		A8BFE3CB22D4771900B2E042 /* Build configuration list for PBXProject "GPSBasic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8F1D01C22C9A63500767065 /* Debug */,
-				A8F1D01D22C9A63500767065 /* Release */,
+				A8BFE3E022D4771B00B2E042 /* Debug */,
+				A8BFE3E122D4771B00B2E042 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A8F1D01E22C9A63500767065 /* Build configuration list for PBXNativeTarget "CheckLocale" */ = {
+		A8BFE3E222D4771B00B2E042 /* Build configuration list for PBXNativeTarget "GPSBasic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8F1D01F22C9A63500767065 /* Debug */,
-				A8F1D02022C9A63500767065 /* Release */,
+				A8BFE3E322D4771B00B2E042 /* Debug */,
+				A8BFE3E422D4771B00B2E042 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A8F1D00422C9A63400767065 /* Project object */;
+	rootObject = A8BFE3C822D4771900B2E042 /* Project object */;
 }

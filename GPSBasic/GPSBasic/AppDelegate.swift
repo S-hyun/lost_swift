@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CheckLocale
+//  GPSBasic
 //
-//  Created by swuad_12 on 01/07/2019.
+//  Created by swuad_12 on 09/07/2019.
 //  Copyright © 2019 swuad_12. All rights reserved.
 //
 
