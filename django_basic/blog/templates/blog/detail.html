@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{{object.title}} - {{object.created}}
+<br>
+{{object.content|safe}}
+
+<a href="{% url 'update' object.id %}" class="btn btn-outline-warning btn-lg">Update</a>
+<a href="{% url 'delete' object.id %}" class="btn btn-outline-danger btn-lg">Delete</a>
+
+{% endblock %}

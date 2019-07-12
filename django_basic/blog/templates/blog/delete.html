@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="alert alert-info">블로그 글 삭제하기</div>
+
+<form action="" method="post">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input type="submit" value="Confirm Delete" class="btn btn-outline-danger float-right">
+</form>
+{% endblock%}
